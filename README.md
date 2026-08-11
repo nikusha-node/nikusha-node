@@ -13,7 +13,6 @@ I enjoy learning how systems work from hardware to software and continuously exp
 * 🌍  I'm based in Tblisi, Georgia
 * 🖥️  See my portfolio at [Portfolio](http://test)
 * ✉️  You can contact me at [nika59863@gmail.com](mailto:nika59863@gmail.com)
-* 🚀  I'm currently working on [My Web Site](http://https://stephotel.netlify.app/)
 * 🧠  I'm currently learning C#, .NET fundamentals, backend development concepts, and database basics
 * 👥  I'm looking to collaborate on Beginner-friendly web or open-source projects
 
